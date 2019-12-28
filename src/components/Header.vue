@@ -1,7 +1,9 @@
 <template>
 	<div class="header">
 		<div class="header-logo">
-			<img class="logo" :src="require('@/assets/image/cnodejs.svg')" alt />
+			<router-link to="/">
+				<img class="logo" :src="require('@/assets/image/cnodejs.svg')" alt />
+			</router-link>
 		</div>
 		<div class="header-info">
 			<a class="api" href="https://cnodejs.org/api" target="_blank">API</a>
