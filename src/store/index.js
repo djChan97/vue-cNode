@@ -1,11 +1,20 @@
-import Vue from "vue";
-import Vuex from "vuex";
+import Vue from 'vue'
+import Vuex from 'vuex'
+Vue.use(Vuex)
 
-Vue.use(Vuex);
+const store = new Vuex.Store({
+	state: {
+		recentTopics: [],
+		recentReplies: []
+	},
+	mutations: {
+		setTopics(state, payload) {
+			state.recentTopics = payload.data
+		},
+		setReplies(state, payload) {
+			state.recentReplies = payload.data
+		}
+	}
+})
 
-export default new Vuex.Store({
-  state: {},
-  mutations: {},
-  actions: {},
-  modules: {}
-});
+Vue.prototype.$store = store

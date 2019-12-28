@@ -1,29 +1,13 @@
-# vue-demo
+## 用 Vue 构建 CNode 社区
 
-## Project setup
-```
-yarn install
-```
+🚀🚀 预览地址：https://xxiang1997.github.io/Vue-CNode/#/
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+这是一个 Vue 的初级项目，但并不简单我优化了很多细节。
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-   作者： XXIANG1997
+-   github： Vue-CNode
+-   技术栈：
+    -   Vue 全家桶
+    -   axios
+    -   element-ui
+    -   moment.js
