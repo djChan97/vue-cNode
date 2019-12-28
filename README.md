@@ -1,6 +1,6 @@
 ## 用 Vue 构建 CNode 社区
 
-https://travis-ci.com/XXIANG1997/CNode-Vue.svg?branch=master
+![](https://travis-ci.com/XXIANG1997/CNode-Vue.svg?branch=master)
 
 🚀🚀 预览地址：https://xxiang1997.github.io/CNode-Vue/
 
