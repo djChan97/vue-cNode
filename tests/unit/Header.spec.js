@@ -7,7 +7,8 @@ describe('Header.vue', () => {
 	localVue.use(Dialog)
 	localVue.use(Button)
 	const wrapper = mount(Header, {
-		localVue
+		localVue,
+		stubs: ['router-link']
 	})
 	it('Header has data dialogVisible', () => {
 		wrapper.setData({
