@@ -1,8 +1,10 @@
-## 用 Vue 构建 CNode 社区
+## Vue 构建 CNode 社区
 
 ![](https://travis-ci.com/XXIANG1997/CNode-Vue.svg?branch=master)
 
 🚀🚀 预览地址：https://xxiang1997.github.io/CNode-Vue/
+
+还有 React 版本传送门：https://github.com/XXIANG1997/CNode-React
 
 这是一个 Vue 的初级项目，但并不简单我优化了很多细节。
 
