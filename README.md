@@ -4,7 +4,7 @@
 
 🚀🚀 预览地址：https://xxiang1997.github.io/CNode-Vue/
 
-还有 React 版本传送门：https://github.com/XXIANG1997/CNode-React
+还有 React 版本传送门：https://github.com/XXIANG1997/react-cnode
 
 这是一个 Vue 的初级项目，但并不简单我优化了很多细节。
 
