@@ -1,6 +1,6 @@
 ## Vue 构建 CNode 社区
 
-![](https://travis-ci.com/XXIANG1997/CNode-Vue.svg?branch=master)
+[![Build Status](https://travis-ci.com/djChan97/vue-cNode.svg?branch=master)](https://travis-ci.com/djChan97/vue-cNode)
 
 🚀🚀 预览地址：https://djchan97.github.io/vue-cNode/
 
