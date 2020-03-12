@@ -2,7 +2,7 @@
 
 ![](https://travis-ci.com/XXIANG1997/CNode-Vue.svg?branch=master)
 
-🚀🚀 预览地址：https://djChan97.github.io/CNode-Vue/
+🚀🚀 预览地址：https://djchan97.github.io/vue-cNode/
 
 还有 React 版本传送门：https://github.com/djChan97/react-cnode
 
